@@ -27,7 +27,7 @@
       <div class="hidden lg:flex lg:gap-x-12">
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Gallery</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Login</a>
-        <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Register</a>
+        <a href="register" class="text-sm font-semibold leading-6 text-gray-900">Register</a>
         
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
@@ -56,7 +56,7 @@
             <div class="space-y-2 py-6">
               <a href="#" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Gallery</a>
               <a href="#" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">login</a>
-              <a href="#" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Register</a>
+              <a href="register" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Register</a>
     
             </div>
             <div class="py-6">
